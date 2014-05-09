@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1398556724 source:/home/cvarela/Desktop/PROGRA3/SDL/main.cpp
+	<iostream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1399060254 source:/home/turupawn/Projects/Codeblocks/Clases/SDL/main.cpp
+	<iostream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	"Enemigo.h"
+
+1399060632 source:/home/turupawn/Projects/Codeblocks/Clases/SDL/src/Enemigo.cpp
+	"Enemigo.h"
+
+1399060188 /home/turupawn/Projects/Codeblocks/Clases/SDL/include/Enemigo.h
+	<SDL/SDL.h>
+
